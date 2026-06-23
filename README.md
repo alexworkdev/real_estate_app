@@ -11,12 +11,12 @@
   <p align="center">
     👨‍💻 This application is made with React Native 👨‍💻
     <br />
-    <a href="https://github.com/alexernandes10041-debugger/real_estate_app"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/alexworkdev/real_estate_app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/alexernandes10041-debugger/real_estate_app/issues">Report Bug</a>
+    <a href="https://github.com/alexworkdev/real_estate_app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/alexernandes10041-debugger/real_estate_app/issues">Request Feature</a>
+    <a href="https://github.com/alexworkdev/real_estate_app/issues">Request Feature</a>
   </p>
 </div>
 
@@ -84,7 +84,7 @@ and many more, including code architecture and reusability
 1. To Get Started, Fork this repository to your GitHub account:
 2. Clone the repo from your account using:
    ```sh
-   git clone https://github.com/alexernandes10041-debugger/real_estate_app.git
+   git clone https://github.com/alexworkdev/real_estate_app.git
    ```
 3. Open the project on Vs Code and go to the project directory 
    ```sh
@@ -122,7 +122,7 @@ In the output, you'll find options to open the app in a
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-See the [open issues](https://github.com/alexernandes10041-debugger/real_estate_app/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/alexworkdev/real_estate_app/issues) for a full list of proposed features (and known issues).
  
 
 ## <a name="contributing">🧐 Contributing</a>
